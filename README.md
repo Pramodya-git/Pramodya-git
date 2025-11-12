@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pramodya Rathnayaka</h1>
 <h2 align="center">University of Colombo School of Computing Student</h2>
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div><br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodya-git&label=Profile%20views&color=0e75b6&style=flat" alt="pramodya-git" /> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
@@ -33,9 +27,15 @@ I'm a Pramodya Rathnayaka and Information Systems student who is passionate abou
 
 <br />
 <br />
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div><br />
 <br />
-<br />
-<br />
+
 
 <table align="center">
 <tr border="none">
