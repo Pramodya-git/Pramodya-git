@@ -8,7 +8,7 @@
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
 I'm a Pramodya Rathnayaka and Information Systems student who is passionate about Programming Systems,Embedded Systems , and Computer Programming.
-<br />
+<br /><br />
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
