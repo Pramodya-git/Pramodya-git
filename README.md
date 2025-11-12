@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Call me Pramodya**
 
-| ![Pramodya's github stats](https://github-readme-stats.vercel.app/api?username=Pramodya-git&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pramodya-git&theme=tokyonight) |
+| ![Pramodya's github stats](https://github-readme-stats.vercel.app/api?username=Pramodya-git&show_icons=true&theme=tokyonight) | ![Pramodya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pramodya-git&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodya-git&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Pramodya-git&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
